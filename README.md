@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/kseniya-tamanova-16289b2b0?trk=contact-info)">
-    <img scr="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/kseniya-tamanova-16289b2b0?trk=contact-info">
+    <img scr="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-linkedin-URL](https://www.instagram.com/k.11.s.2?igsh=NWtjdnJvMzE3NDY1)">
+  <a href="https://www.instagram.com/k.11.s.2?igsh=NWtjdnJvMzE3NDY1">
      <img scr="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
