@@ -27,15 +27,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstmnv&layout=compact&theme=githab_dark" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kstmnv&count_private=true&show_icons=true&theme=buefy" />
-</p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kstmnv/count.svg" />
-</p>
